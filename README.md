@@ -1,0 +1,2 @@
+# GSLC_2440057363_RICO_SUSANTO_Feature_Blade_Website_Programming
+Tugas GSLC Website Programming, menggunakan feature blade. RICO SUSANTO_2440057363
