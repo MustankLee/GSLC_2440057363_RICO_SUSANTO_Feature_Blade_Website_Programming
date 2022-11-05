@@ -1,0 +1,80 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+html{scroll-behavior:smooth}
+
+body {
+    color: black;
+    background-image: linear-gradient(to bottom, rgb(165, 234, 255), rgb(151, 164, 249));
+}
+
+nav, #ctnt-2{
+    height: 12vh;
+}
+
+.desc-product {
+    text-align: justify;
+    height: 22vh;
+}
+
+.ctn, .ctn-3{
+    height: 90vh;
+}
+
+.bg-yellow {
+    text-align: justify;
+    background-color: rgb(255, 255, 233);
+}
+
+.bg-magenta {
+    text-align: justify;
+    background-color: rgb(255, 244, 255);
+}
+
+.bg-green {
+    text-align: justify;
+    background-color: rgb(236, 255, 236);
+}
+
+.glass-effect {
+    background: rgba(255, 255, 255, 0.21);
+    border-radius: 8px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(6.2px);
+    -webkit-backdrop-filter: blur(6.2px);
+    border: 1px solid rgba(255, 255, 255, 0.31);
+}
+
+.border-style-form {
+    border: none;
+    padding-bottom: 2px;
+    border-bottom: 3px solid rgb(16, 111, 255);
+}
+
+.border-style::placeholder {
+    color: rgba(1, 0, 0, 0.427);
+    font-style: italic;
+}
+
+.rspnsv-set-up {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.rspnsv-set-up div {
+    width: 45%;
+}
+
+@media only screen and (max-width: 600px){
+    .rspnsv-set-up {
+        display: block;
+    }
+
+    .rspnsv-set-up div {
+        width: 100%;
+    }
+}
