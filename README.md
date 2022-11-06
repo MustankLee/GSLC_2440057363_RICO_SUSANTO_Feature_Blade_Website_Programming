@@ -1,5 +1,5 @@
 # GSLC_2440057363_RICO_SUSANTO_Feature_Blade_Website_Programming
-Silakan jalankan command 'composer-install' agar dapat menginstall vendor di lokal device Anda.
+Silakan jalankan command 'composer install' agar dapat menginstall vendor di lokal device Anda.
 Note: File vendor yang terlalu besar size-nya tidak dapat upload disini, sehingga install sendiri di lokal device masing-masing.
 
 
